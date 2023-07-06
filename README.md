@@ -1,6 +1,6 @@
 # TransFusion
 
-Better Low-resource Entity Recognition Through Translation and Annotation Fusion
+[Paper](https://arxiv.org/abs/2305.13582): Better Low-resource Entity Recognition Through Translation and Annotation Fusion
 
 ![TransFusion](https://raw.githubusercontent.com/edchengg/transfusion/main/asset/trans_gif.gif)
 
