@@ -16,7 +16,7 @@ TGTLANG=$(sed -n "${sid}p" masaka_lang_id.txt)
 SRCLANG=en
 mode=mix-en-trans
 type=masakha_${mode}
-for j in 1 2 3
+for j in 1 2 3 4 5
 do
 	export MAX_LENGTH=256
 	export BERT_MODEL=microsoft/mdeberta-v3-base
