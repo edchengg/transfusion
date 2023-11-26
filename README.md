@@ -12,5 +12,15 @@ Train transfusion on masakhaner with mdebertav3 (code/).
 ```bash
 bash train_masakha_ner_mdeberta.sh
 ```
+
+## EasyProject Data Generation
+Translation data can be found in the [Google Drive](https://drive.google.com/drive/folders/1hGdHfs4eoOR7Ve9Y_tCUu-p0xRmzXf6J?usp=sharing). 
+Run the following code to project labels from translation data in 'conll_nllb_3B_ft.pkl':
+
+```
+python decode_marker_conll.py
+```
+
+
 ## Funding Acknowledgment
 This material is based in part on research sponsored by IARPA via the BETTER program (2019-19051600004).
