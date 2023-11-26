@@ -21,6 +21,7 @@ Run the following code to project labels from translation data in 'conll_nllb_3B
 python decode_marker_conll.py
 ```
 
+- We use [nllb-200-3.3B-easyproject](https://huggingface.co/ychenNLP/nllb-200-3.3B-easyproject) translation model that is fine-tuned to preserve special markers during translation on 5 high-resource languages (Germany, Spanish, Dutch, Chinese, Arabic).
 
 ## Funding Acknowledgment
 This material is based in part on research sponsored by IARPA via the BETTER program (2019-19051600004).
