@@ -1,9 +1,4 @@
-# TransFusion
-
-[Paper](https://arxiv.org/abs/2305.13582): Better Low-resource Entity Recognition Through Translation and Annotation Fusion
-
-<img src="https://raw.githubusercontent.com/edchengg/transfusion/main/asset/trans_gif.gif" width="250" height="150">
-
+# TransFusion (BERT-based Model)
 ## Data
 [TransFusion Data](https://drive.google.com/drive/folders/1dNPLlvgA_wQ72uVhw5gL30a60aIySkl-?usp=share_link)
 
